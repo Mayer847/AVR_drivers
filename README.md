@@ -4,6 +4,7 @@
 /* Project_1_proteus is simulation*/
 
 /* in the main.c inside application you will find  **** TESTING ***** section */
+
 /* testing include:
   1. simple calculator using keypad and lcd display
   2. external interrupt using a switch to increment a counter on display on LCD
