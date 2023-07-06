@@ -2,7 +2,7 @@
 
 /* Project 1 is microchip project*/
 
-/* Project_1_proteus is simulation*/
+/* Project_1_AVR is simulation of the project on proteus */
 
 /* in the main.c inside APP folder you will find  **** TESTING ***** section */
 
