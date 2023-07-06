@@ -1,0 +1,1 @@
+APP/LCD_KP.d APP/LCD_KP.o: ../APP/LCD_KP.c
