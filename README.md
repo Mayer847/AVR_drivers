@@ -18,5 +18,6 @@ Testing include:
   5. two LCD custom character functions for a fictional character named "Hamoksha", /*Hamoksha_hatestheSun()*/ and /*Hamoksha_sleep();*/
   6. watch alarm function using external interrupt 1 to turn on display and then input is taken from user (1 to 9) and count down begins (using timer interrupt) then after timer reaches zero a buzzer is enabled and a message apears "TIME IS UP!!!" on the LCD
   7. ADC function to measure readings of temperature (LM35) using ADC interrupt
+  8. Sending and receiving characters to proteus terminal using USART communication protocol
 
 */
